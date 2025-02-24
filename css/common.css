@@ -1,0 +1,72 @@
+a {
+    text-decoration: none;
+}
+#newcenter {
+    word-break: keep-all;
+}
+#newcenter input,
+#newcenter select,
+#newcenter textarea,
+#newcenter .input-group-text,
+#newcenter .btn {
+    margin-bottom: 5px;
+}
+.horn {
+    margin-top: 15px;
+    margin-bottom: 18px;
+    margin-left: 1em;
+    display: none;
+}
+.horn::before {
+    content: "";
+    display: block;
+    width: 16px;
+    height: 14px;
+    border-bottom: 14px solid rgba(0,0,0,0.125); 
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    position: absolute;
+    top: -14px;
+    left: 11px;
+}
+.horn::after {
+    content: "";
+    display: block;
+    width: 14px;
+    height: 12px;
+    border-bottom: 12px solid white; 
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    position: absolute;
+    top: -12px;
+    left: 12px;
+}
+.bno {
+    display: block;
+    width: 4em;
+    float: left;
+    text-align: center;
+}
+.bname {
+    display: block;
+    width: calc(100% - 32em);
+    float: left;
+}
+.bid {
+    display: block;
+    width: 8em;
+    float: left;
+    text-align: center;
+}
+.bsize {
+    display: block;
+    width: 10em;
+    float: left;
+    text-align: center;
+}
+.bphone {
+    display: block;
+    width: 10em;
+    float: left;
+    text-align: center;
+}
