@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/7a6dc240-f26d-4529-a920-057ea3bb755d)
+--------
+
 <h1>워시매니아</h1>
 <br />
 
