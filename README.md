@@ -16,5 +16,5 @@ HTML, CSS, JavaScript, JQuery, php
 
  ## 🧲 주요기능
 - 지점 등록, 수정, 삭제, 리스트 보기가 가능합니다
-- <br />
+<br />
 
